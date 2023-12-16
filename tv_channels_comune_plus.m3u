@@ -1,0 +1,531 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="----------Tivu Sat ----------" tvg-logo="" group-title="ITALIA",----------Tivu Sat ----------
+http://51.15.7.149:8080/comune/yGmJCyRFET/97
+#EXTINF:-1 tvg-id="" tvg-name="Rai 1 FHD" tvg-logo="" group-title="ITALIA",Rai 1 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/1
+#EXTINF:-1 tvg-id="" tvg-name="Rai 1 HD" tvg-logo="" group-title="ITALIA",Rai 1 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/2
+#EXTINF:-1 tvg-id="" tvg-name="Rai 2 FHD" tvg-logo="" group-title="ITALIA",Rai 2 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/3
+#EXTINF:-1 tvg-id="" tvg-name="Rai 2 HD" tvg-logo="" group-title="ITALIA",Rai 2 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/4
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 FHD" tvg-logo="" group-title="ITALIA",Rai 3 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/5
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 HD" tvg-logo="" group-title="ITALIA",Rai 3 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/6
+#EXTINF:-1 tvg-id="" tvg-name="Rete 4 FHD" tvg-logo="" group-title="ITALIA",Rete 4 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/11
+#EXTINF:-1 tvg-id="" tvg-name="Rete 4 HD" tvg-logo="" group-title="ITALIA",Rete 4 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/12
+#EXTINF:-1 tvg-id="" tvg-name="Canale 5 FHD" tvg-logo="" group-title="ITALIA",Canale 5 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/7
+#EXTINF:-1 tvg-id="" tvg-name="Canale 5 HD" tvg-logo="" group-title="ITALIA",Canale 5 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/8
+#EXTINF:-1 tvg-id="" tvg-name="Italia 1 FHD" tvg-logo="" group-title="ITALIA",Italia 1 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/9
+#EXTINF:-1 tvg-id="" tvg-name="Italia 1 HD" tvg-logo="" group-title="ITALIA",Italia 1 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/10
+#EXTINF:-1 tvg-id="" tvg-name="Rai 4 FHD" tvg-logo="" group-title="ITALIA",Rai 4 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/13
+#EXTINF:-1 tvg-id="" tvg-name="Rai 4 HD" tvg-logo="" group-title="ITALIA",Rai 4 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/14
+#EXTINF:-1 tvg-id="" tvg-name="Rai 5 FHD" tvg-logo="" group-title="ITALIA",Rai 5 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/15
+#EXTINF:-1 tvg-id="" tvg-name="Rai 5 HD" tvg-logo="" group-title="ITALIA",Rai 5 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/16
+#EXTINF:-1 tvg-id="" tvg-name="La 5" tvg-logo="" group-title="ITALIA",La 5
+http://51.15.7.149:8080/comune/yGmJCyRFET/17
+#EXTINF:-1 tvg-id="" tvg-name="Rai Movie FHD" tvg-logo="" group-title="ITALIA",Rai Movie FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/18
+#EXTINF:-1 tvg-id="" tvg-name="Rai Movie HD" tvg-logo="" group-title="ITALIA",Rai Movie HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/19
+#EXTINF:-1 tvg-id="" tvg-name="Rai Premium FHD" tvg-logo="" group-title="ITALIA",Rai Premium FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/20
+#EXTINF:-1 tvg-id="" tvg-name="Rai Premium HD" tvg-logo="" group-title="ITALIA",Rai Premium HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/21
+#EXTINF:-1 tvg-id="" tvg-name="Rai Storia FHD" tvg-logo="" group-title="ITALIA",Rai Storia FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/24
+#EXTINF:-1 tvg-id="" tvg-name="Rai Storia HD" tvg-logo="" group-title="ITALIA",Rai Storia HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/25
+#EXTINF:-1 tvg-id="" tvg-name="Rai Scuola FHD" tvg-logo="" group-title="ITALIA",Rai Scuola FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/22
+#EXTINF:-1 tvg-id="" tvg-name="Rai Scuola HD" tvg-logo="" group-title="ITALIA",Rai Scuola HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/23
+#EXTINF:-1 tvg-id="" tvg-name="Nove FHD" tvg-logo="" group-title="ITALIA",Nove FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/26
+#EXTINF:-1 tvg-id="" tvg-name="Nove HD" tvg-logo="" group-title="ITALIA",Nove HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/27
+#EXTINF:-1 tvg-id="" tvg-name="DMAX FHD" tvg-logo="" group-title="ITALIA",DMAX FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/28
+#EXTINF:-1 tvg-id="" tvg-name="Real Time FHD" tvg-logo="" group-title="ITALIA",Real Time FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/29
+#EXTINF:-1 tvg-id="" tvg-name="Real Time HD" tvg-logo="" group-title="ITALIA",Real Time HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/30
+#EXTINF:-1 tvg-id="" tvg-name="Giallo FHD" tvg-logo="" group-title="ITALIA",Giallo FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/31
+#EXTINF:-1 tvg-id="" tvg-name="Cine34" tvg-logo="" group-title="ITALIA",Cine34
+http://51.15.7.149:8080/comune/yGmJCyRFET/32
+#EXTINF:-1 tvg-id="" tvg-name="TV2000 HD" tvg-logo="" group-title="ITALIA",TV2000 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/34
+#EXTINF:-1 tvg-id="" tvg-name="20 Mediaset FHD" tvg-logo="" group-title="ITALIA",20 Mediaset FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/35
+#EXTINF:-1 tvg-id="" tvg-name="20 Mediaset HD" tvg-logo="" group-title="ITALIA",20 Mediaset HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/36
+#EXTINF:-1 tvg-id="" tvg-name="Mediaset ITALIA DUE" tvg-logo="" group-title="ITALIA",Mediaset ITALIA DUE
+http://51.15.7.149:8080/comune/yGmJCyRFET/37
+#EXTINF:-1 tvg-id="" tvg-name="Mediaset Extra" tvg-logo="" group-title="ITALIA",Mediaset Extra
+http://51.15.7.149:8080/comune/yGmJCyRFET/38
+#EXTINF:-1 tvg-id="" tvg-name="Padre Pio Tv" tvg-logo="" group-title="ITALIA",Padre Pio Tv
+http://51.15.7.149:8080/comune/yGmJCyRFET/49
+#EXTINF:-1 tvg-id="" tvg-name="Iris" tvg-logo="" group-title="ITALIA",Iris
+http://51.15.7.149:8080/comune/yGmJCyRFET/39
+#EXTINF:-1 tvg-id="" tvg-name="Top Crime" tvg-logo="" group-title="ITALIA",Top Crime
+http://51.15.7.149:8080/comune/yGmJCyRFET/40
+#EXTINF:-1 tvg-id="" tvg-name="Focus" tvg-logo="" group-title="ITALIA",Focus
+http://51.15.7.149:8080/comune/yGmJCyRFET/41
+#EXTINF:-1 tvg-id="" tvg-name="LA7 HD" tvg-logo="" group-title="ITALIA",LA7 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/42
+#EXTINF:-1 tvg-id="" tvg-name="La 7d" tvg-logo="" group-title="ITALIA",La 7d
+http://51.15.7.149:8080/comune/yGmJCyRFET/43
+#EXTINF:-1 tvg-id="" tvg-name="TV8 HD" tvg-logo="" group-title="ITALIA",TV8 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/44
+#EXTINF:-1 tvg-id="" tvg-name="cielo FHD" tvg-logo="" group-title="ITALIA",cielo FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/68
+#EXTINF:-1 tvg-id="" tvg-name="Cielo HD" tvg-logo="" group-title="ITALIA",Cielo HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/45
+#EXTINF:-1 tvg-id="" tvg-name="RSI LA 1 HD" tvg-logo="" group-title="ITALIA",RSI LA 1 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/46
+#EXTINF:-1 tvg-id="" tvg-name="RSI LA 2 HD" tvg-logo="" group-title="ITALIA",RSI LA 2 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/47
+#EXTINF:-1 tvg-id="" tvg-name="27 Twentyseven HD" tvg-logo="" group-title="ITALIA",27 Twentyseven HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/66
+#EXTINF:-1 tvg-id="" tvg-name="MotorTrend FHD" tvg-logo="" group-title="ITALIA",MotorTrend FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/69
+#EXTINF:-1 tvg-id="" tvg-name="Motor Trend HD" tvg-logo="" group-title="ITALIA",Motor Trend HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/50
+#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD" tvg-logo="" group-title="ITALIA",Food Network FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/70
+#EXTINF:-1 tvg-id="" tvg-name="TV8 FHD" tvg-logo="" group-title="ITALIA",TV8 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/71
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="ITALIA",HGTV
+http://51.15.7.149:8080/comune/yGmJCyRFET/73
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="" group-title="ITALIA",VH1 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/75
+#EXTINF:-1 tvg-id="" tvg-name="Nuova Tv 1" tvg-logo="" group-title="ITALIA",Nuova Tv 1
+http://51.15.7.149:8080/comune/yGmJCyRFET/112
+#EXTINF:-1 tvg-id="" tvg-name="Nuova Tv 2" tvg-logo="" group-title="ITALIA",Nuova Tv 2
+http://51.15.7.149:8080/comune/yGmJCyRFET/113
+#EXTINF:-1 tvg-id="" tvg-name="Super Six" tvg-logo="" group-title="ITALIA",Super Six
+http://51.15.7.149:8080/comune/yGmJCyRFET/116
+#EXTINF:-1 tvg-id="" tvg-name="Rai News 24 FHD" tvg-logo="" group-title="ITALIA",Rai News 24 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/62
+#EXTINF:-1 tvg-id="" tvg-name="Tgcom 24" tvg-logo="" group-title="ITALIA",Tgcom 24
+http://51.15.7.149:8080/comune/yGmJCyRFET/64
+#EXTINF:-1 tvg-id="" tvg-name="---------- Bambini ----------" tvg-logo="" group-title="ITALIA",---------- Bambini ----------
+http://51.15.7.149:8080/comune/yGmJCyRFET/99
+#EXTINF:-1 tvg-id="" tvg-name="Rai Gulp FHD" tvg-logo="" group-title="ITALIA",Rai Gulp FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/51
+#EXTINF:-1 tvg-id="" tvg-name="Rai YoYo FHD" tvg-logo="" group-title="ITALIA",Rai YoYo FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/53
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="" group-title="ITALIA",Cartoonito
+http://51.15.7.149:8080/comune/yGmJCyRFET/55
+#EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="" group-title="ITALIA",Boing
+http://51.15.7.149:8080/comune/yGmJCyRFET/56
+#EXTINF:-1 tvg-id="" tvg-name="frisbee" tvg-logo="" group-title="ITALIA",frisbee
+http://51.15.7.149:8080/comune/yGmJCyRFET/57
+#EXTINF:-1 tvg-id="" tvg-name="Super!" tvg-logo="" group-title="ITALIA",Super!
+http://51.15.7.149:8080/comune/yGmJCyRFET/58
+#EXTINF:-1 tvg-id="" tvg-name="K2" tvg-logo="" group-title="ITALIA",K2
+http://51.15.7.149:8080/comune/yGmJCyRFET/59
+#EXTINF:-1 tvg-id="" tvg-name="Junior Tv" tvg-logo="" group-title="ITALIA",Junior Tv
+http://51.15.7.149:8080/comune/yGmJCyRFET/111
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon " tvg-logo="" group-title="ITALIA",Nickelodeon 
+http://51.15.7.149:8080/comune/yGmJCyRFET/284
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="ITALIA",Cartoon Network
+http://51.15.7.149:8080/comune/yGmJCyRFET/286
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="ITALIA",Boomerang
+http://51.15.7.149:8080/comune/yGmJCyRFET/287
+#EXTINF:-1 tvg-id="" tvg-name="Dea Junior" tvg-logo="" group-title="ITALIA",Dea Junior
+http://51.15.7.149:8080/comune/yGmJCyRFET/288
+#EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="" group-title="ITALIA",Nick Junior
+http://51.15.7.149:8080/comune/yGmJCyRFET/289
+#EXTINF:-1 tvg-id="" tvg-name="Dea Kids" tvg-logo="" group-title="ITALIA",Dea Kids
+http://51.15.7.149:8080/comune/yGmJCyRFET/290
+#EXTINF:-1 tvg-id="" tvg-name="---------- Musica ----------" tvg-logo="" group-title="ITALIA",---------- Musica ----------
+http://51.15.7.149:8080/comune/yGmJCyRFET/100
+#EXTINF:-1 tvg-id="" tvg-name="KISS KISS TV" tvg-logo="" group-title="ITALIA",KISS KISS TV
+http://51.15.7.149:8080/comune/yGmJCyRFET/107
+#EXTINF:-1 tvg-id="" tvg-name="---------- Rakuten TV ----------" tvg-logo="" group-title="ITALIA",---------- Rakuten TV ----------
+http://51.15.7.149:8080/comune/yGmJCyRFET/119
+#EXTINF:-1 tvg-id="" tvg-name="Film Top" tvg-logo="" group-title="ITALIA",Film Top
+http://51.15.7.149:8080/comune/yGmJCyRFET/126
+#EXTINF:-1 tvg-id="" tvg-name="Classico" tvg-logo="" group-title="ITALIA",Classico
+http://51.15.7.149:8080/comune/yGmJCyRFET/127
+#EXTINF:-1 tvg-id="" tvg-name="Thriller" tvg-logo="" group-title="ITALIA",Thriller
+http://51.15.7.149:8080/comune/yGmJCyRFET/128
+#EXTINF:-1 tvg-id="" tvg-name="Romance" tvg-logo="" group-title="ITALIA",Romance
+http://51.15.7.149:8080/comune/yGmJCyRFET/129
+#EXTINF:-1 tvg-id="" tvg-name="----------  Sky Intrattenimento ----------" tvg-logo="" group-title="ITALIA",----------  Sky Intrattenimento ----------
+http://51.15.7.149:8080/comune/yGmJCyRFET/141
+#EXTINF:-1 tvg-id="" tvg-name="SKY UNO FHD" tvg-logo="" group-title="ITALIA",SKY UNO FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/269
+#EXTINF:-1 tvg-id="" tvg-name="Sky Uno HD" tvg-logo="" group-title="ITALIA",Sky Uno HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/142
+#EXTINF:-1 tvg-id="" tvg-name="Sky Uno " tvg-logo="" group-title="ITALIA",Sky Uno 
+http://51.15.7.149:8080/comune/yGmJCyRFET/86
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic FHD" tvg-logo="" group-title="ITALIA",Sky Atlantic FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/143
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic HD" tvg-logo="" group-title="ITALIA",Sky Atlantic HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/144
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic" tvg-logo="" group-title="ITALIA",Sky Atlantic
+http://51.15.7.149:8080/comune/yGmJCyRFET/89
+#EXTINF:-1 tvg-id="" tvg-name="Sky  Arte FHD" tvg-logo="" group-title="ITALIA",Sky  Arte FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/402
+#EXTINF:-1 tvg-id="" tvg-name="Sky Arte HD" tvg-logo="" group-title="ITALIA",Sky Arte HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/397
+#EXTINF:-1 tvg-id="" tvg-name="Sky Arte " tvg-logo="" group-title="ITALIA",Sky Arte 
+http://51.15.7.149:8080/comune/yGmJCyRFET/505
+#EXTINF:-1 tvg-id="" tvg-name="Sky Nature FHD" tvg-logo="" group-title="ITALIA",Sky Nature FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/149
+#EXTINF:-1 tvg-id="" tvg-name="Sky Nature HD" tvg-logo="" group-title="ITALIA",Sky Nature HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/150
+#EXTINF:-1 tvg-id="" tvg-name="Sky Nature" tvg-logo="" group-title="ITALIA",Sky Nature
+http://51.15.7.149:8080/comune/yGmJCyRFET/500
+#EXTINF:-1 tvg-id="" tvg-name="Sky Documentaris FHD" tvg-logo="" group-title="ITALIA",Sky Documentaris FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/151
+#EXTINF:-1 tvg-id="" tvg-name="Sky Documentaris HD" tvg-logo="" group-title="ITALIA",Sky Documentaris HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/152
+#EXTINF:-1 tvg-id="" tvg-name="Sky Documentaries" tvg-logo="" group-title="ITALIA",Sky Documentaries
+http://51.15.7.149:8080/comune/yGmJCyRFET/499
+#EXTINF:-1 tvg-id="" tvg-name="Sky Series FHD" tvg-logo="" group-title="ITALIA",Sky Series FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/153
+#EXTINF:-1 tvg-id="" tvg-name="Sky Series HD" tvg-logo="" group-title="ITALIA",Sky Series HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/154
+#EXTINF:-1 tvg-id="" tvg-name="---------- Sky Cinema ----------" tvg-logo="" group-title="ITALIA",---------- Sky Cinema ----------
+http://51.15.7.149:8080/comune/yGmJCyRFET/155
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Uno " tvg-logo="" group-title="ITALIA",Sky Cinema Uno 
+http://51.15.7.149:8080/comune/yGmJCyRFET/446
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Uno HD" tvg-logo="" group-title="ITALIA",Sky Cinema Uno HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/156
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Uno FHD" tvg-logo="" group-title="ITALIA",Sky Cinema Uno FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/157
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Due FHD" tvg-logo="" group-title="ITALIA",Sky Cinema Due FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/159
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Due HD" tvg-logo="" group-title="ITALIA",Sky Cinema Due HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/158
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Due " tvg-logo="" group-title="ITALIA",Sky Cinema Due 
+http://51.15.7.149:8080/comune/yGmJCyRFET/448
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Collection FHD" tvg-logo="" group-title="ITALIA",Sky Cinema Collection FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/161
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Collection HD" tvg-logo="" group-title="ITALIA",Sky Cinema Collection HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/160
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Collection " tvg-logo="" group-title="ITALIA",Sky Cinema Collection 
+http://51.15.7.149:8080/comune/yGmJCyRFET/455
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy FHD" tvg-logo="" group-title="ITALIA",Sky Cinema Comedy FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/163
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy HD" tvg-logo="" group-title="ITALIA",Sky Cinema Comedy HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/162
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy" tvg-logo="" group-title="ITALIA",Sky Cinema Comedy
+http://51.15.7.149:8080/comune/yGmJCyRFET/454
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama FHD" tvg-logo="" group-title="ITALIA",Sky Cinema Drama FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/165
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama HD" tvg-logo="" group-title="ITALIA",Sky Cinema Drama HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/164
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama " tvg-logo="" group-title="ITALIA",Sky Cinema Drama 
+http://51.15.7.149:8080/comune/yGmJCyRFET/453
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action FHD" tvg-logo="" group-title="ITALIA",Sky Cinema Action FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/167
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action HD" tvg-logo="" group-title="ITALIA",Sky Cinema Action HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/166
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action" tvg-logo="" group-title="ITALIA",Sky Cinema Action
+http://51.15.7.149:8080/comune/yGmJCyRFET/450
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspense FHD" tvg-logo="" group-title="ITALIA",Sky Cinema Suspense FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/169
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspense HD" tvg-logo="" group-title="ITALIA",Sky Cinema Suspense HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/168
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspense" tvg-logo="" group-title="ITALIA",Sky Cinema Suspense
+http://51.15.7.149:8080/comune/yGmJCyRFET/456
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance FHD" tvg-logo="" group-title="ITALIA",Sky Cinema Romance FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/171
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance HD" tvg-logo="" group-title="ITALIA",Sky Cinema Romance HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/170
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance" tvg-logo="" group-title="ITALIA",Sky Cinema Romance
+http://51.15.7.149:8080/comune/yGmJCyRFET/451
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family FHD" tvg-logo="" group-title="ITALIA",Sky Cinema Family FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/172
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family HD" tvg-logo="" group-title="ITALIA",Sky Cinema Family HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/356
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family" tvg-logo="" group-title="ITALIA",Sky Cinema Family
+http://51.15.7.149:8080/comune/yGmJCyRFET/452
+#EXTINF:-1 tvg-id="" tvg-name="---------- Cultura-Documentari ----------" tvg-logo="" group-title="ITALIA",---------- Cultura-Documentari ----------
+http://51.15.7.149:8080/comune/yGmJCyRFET/268
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD" tvg-logo="" group-title="ITALIA",Discovery Channel FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/506
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="" group-title="ITALIA",Discovery Channel HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/274
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel " tvg-logo="" group-title="ITALIA",Discovery Channel 
+http://51.15.7.149:8080/comune/yGmJCyRFET/507
+#EXTINF:-1 tvg-id="" tvg-name="History FHD" tvg-logo="" group-title="ITALIA",History FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/276
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="" group-title="ITALIA",History HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/277
+#EXTINF:-1 tvg-id="" tvg-name="Italian Fisching" tvg-logo="" group-title="ITALIA",Italian Fisching
+http://51.15.7.149:8080/comune/yGmJCyRFET/278
+#EXTINF:-1 tvg-id="" tvg-name="CI Crime Investigation FHD" tvg-logo="" group-title="ITALIA",CI Crime Investigation FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/279
+#EXTINF:-1 tvg-id="" tvg-name="CI Crime Investigation HD" tvg-logo="" group-title="ITALIA",CI Crime Investigation HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/280
+#EXTINF:-1 tvg-id="" tvg-name="Sky Investigation FHD" tvg-logo="" group-title="ITALIA",Sky Investigation FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/497
+#EXTINF:-1 tvg-id="" tvg-name="Sky Investigation HD" tvg-logo="" group-title="ITALIA",Sky Investigation HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/281
+#EXTINF:-1 tvg-id="" tvg-name="Sky Investigation" tvg-logo="" group-title="ITALIA",Sky Investigation
+http://51.15.7.149:8080/comune/yGmJCyRFET/498
+#EXTINF:-1 tvg-id="" tvg-name="Gambero Rosso HD" tvg-logo="" group-title="ITALIA",Gambero Rosso HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/282
+#EXTINF:-1 tvg-id="" tvg-name="Gambero Rosso FHD" tvg-logo="" group-title="ITALIA",Gambero Rosso FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/403
+#EXTINF:-1 tvg-id="" tvg-name="CACCIA " tvg-logo="" group-title="ITALIA",CACCIA 
+http://51.15.7.149:8080/comune/yGmJCyRFET/444
+#EXTINF:-1 tvg-id="" tvg-name="PESCA" tvg-logo="" group-title="ITALIA",PESCA
+http://51.15.7.149:8080/comune/yGmJCyRFET/445
+#EXTINF:-1 tvg-id="" tvg-name="---------- Primafila Live ----------" tvg-logo="" group-title="ITALIA",---------- Primafila Live ----------
+http://51.15.7.149:8080/comune/yGmJCyRFET/291
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1" tvg-logo="" group-title="ITALIA",SKY PRIMAFILA 1
+http://51.15.7.149:8080/comune/yGmJCyRFET/292
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2" tvg-logo="" group-title="ITALIA",SKY PRIMAFILA 2
+http://51.15.7.149:8080/comune/yGmJCyRFET/293
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="" group-title="ITALIA",SKY PRIMAFILA 3
+http://51.15.7.149:8080/comune/yGmJCyRFET/294
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="" group-title="ITALIA",SKY PRIMAFILA 4
+http://51.15.7.149:8080/comune/yGmJCyRFET/295
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="" group-title="ITALIA",SKY PRIMAFILA 5
+http://51.15.7.149:8080/comune/yGmJCyRFET/296
+#EXTINF:-1 tvg-id="" tvg-name="FLUX PRIMAVISIONE 1 FHD" tvg-logo="" group-title="ITALIA",FLUX PRIMAVISIONE 1 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/297
+#EXTINF:-1 tvg-id="" tvg-name="FLUX PRIMAVISIONE 2 FHD" tvg-logo="" group-title="ITALIA",FLUX PRIMAVISIONE 2 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/298
+#EXTINF:-1 tvg-id="" tvg-name="FLUX PRIMAVISIONE 3 FHD" tvg-logo="" group-title="ITALIA",FLUX PRIMAVISIONE 3 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/299
+#EXTINF:-1 tvg-id="" tvg-name="FLUX PRIMAVISIONE 4 FHD" tvg-logo="" group-title="ITALIA",FLUX PRIMAVISIONE 4 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/300
+#EXTINF:-1 tvg-id="" tvg-name="FLUX PRIMAVISIONE 5 FHD" tvg-logo="" group-title="ITALIA",FLUX PRIMAVISIONE 5 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/301
+#EXTINF:-1 tvg-id="" tvg-name="FLUX PRIMAVISIONE 6 FHD" tvg-logo="" group-title="ITALIA",FLUX PRIMAVISIONE 6 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/302
+#EXTINF:-1 tvg-id="" tvg-name="FLUX PRIMAVISIONE 7 FHD" tvg-logo="" group-title="ITALIA",FLUX PRIMAVISIONE 7 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/303
+#EXTINF:-1 tvg-id="" tvg-name="FLUX PRIMAVISIONE  8 FHD" tvg-logo="" group-title="ITALIA",FLUX PRIMAVISIONE  8 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/304
+#EXTINF:-1 tvg-id="" tvg-name="FLUX PRIMAVISIONE 9 FHD" tvg-logo="" group-title="ITALIA",FLUX PRIMAVISIONE 9 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/305
+#EXTINF:-1 tvg-id="" tvg-name="FLUX PRIMAVISIONE 10 FHD" tvg-logo="" group-title="ITALIA",FLUX PRIMAVISIONE 10 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/306
+#EXTINF:-1 tvg-id="" tvg-name="----------Sky Sport ----------" tvg-logo="" group-title="ITALIA",----------Sky Sport ----------
+http://51.15.7.149:8080/comune/yGmJCyRFET/184
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24 FHD" tvg-logo="" group-title="ITALIA",Sky Sport 24 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/84
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24  HD" tvg-logo="" group-title="ITALIA",Sky Sport 24  HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/186
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24 " tvg-logo="" group-title="ITALIA",Sky Sport 24 
+http://51.15.7.149:8080/comune/yGmJCyRFET/187
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Uno FHD" tvg-logo="" group-title="ITALIA",Sky Sport Uno FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/188
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Uno HD" tvg-logo="" group-title="ITALIA",Sky Sport Uno HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/83
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Uno" tvg-logo="" group-title="ITALIA",Sky Sport Uno
+http://51.15.7.149:8080/comune/yGmJCyRFET/189
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Golf FHD" tvg-logo="" group-title="ITALIA",Sky Sport Golf FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/191
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Action HD" tvg-logo="" group-title="ITALIA",Sky Sport Action HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/190
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Action FHD" tvg-logo="" group-title="ITALIA",Sky Sport Action FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/140
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport NBA FHD" tvg-logo="" group-title="ITALIA",Sky Sport NBA FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/193
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport NBA HD" tvg-logo="" group-title="ITALIA",Sky Sport NBA HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/194
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport NBA" tvg-logo="" group-title="ITALIA",Sky Sport NBA
+http://51.15.7.149:8080/comune/yGmJCyRFET/195
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Arena FHD" tvg-logo="" group-title="ITALIA",Sky Sport Arena FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/196
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Arena HD" tvg-logo="" group-title="ITALIA",Sky Sport Arena HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/197
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Arena" tvg-logo="" group-title="ITALIA",Sky Sport Arena
+http://51.15.7.149:8080/comune/yGmJCyRFET/198
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport MotoGp FHD" tvg-logo="" group-title="ITALIA",Sky Sport MotoGp FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/199
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport MotoGp HD" tvg-logo="" group-title="ITALIA",Sky Sport MotoGp HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/200
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport MotoGP" tvg-logo="" group-title="ITALIA",Sky Sport MotoGP
+http://51.15.7.149:8080/comune/yGmJCyRFET/457
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 FHD" tvg-logo="" group-title="ITALIA",Sky Sport F1 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/202
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1 HD" tvg-logo="" group-title="ITALIA",Sky Sport F1 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/203
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="" group-title="ITALIA",Sky Sport F1
+http://51.15.7.149:8080/comune/yGmJCyRFET/204
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Action" tvg-logo="" group-title="ITALIA",Sky Sport Action
+http://51.15.7.149:8080/comune/yGmJCyRFET/458
+#EXTINF:-1 tvg-id="" tvg-name="Bike Smart Mobilty" tvg-logo="" group-title="ITALIA",Bike Smart Mobilty
+http://51.15.7.149:8080/comune/yGmJCyRFET/209
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 FHD" tvg-logo="" group-title="ITALIA",Eurosport 1 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/210
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="ITALIA",EUROSPORT 1 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/211
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 FHD" tvg-logo="" group-title="ITALIA",Eurosport 2 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/212
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="" group-title="ITALIA",EUROSPORT 2 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/213
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bianconera - Juventus TV" tvg-logo="" group-title="ITALIA",Radio Bianconera - Juventus TV
+http://51.15.7.149:8080/comune/yGmJCyRFET/375
+#EXTINF:-1 tvg-id="" tvg-name="Milan TV" tvg-logo="" group-title="ITALIA",Milan TV
+http://51.15.7.149:8080/comune/yGmJCyRFET/214
+#EXTINF:-1 tvg-id="" tvg-name="Inter tv" tvg-logo="" group-title="ITALIA",Inter tv
+http://51.15.7.149:8080/comune/yGmJCyRFET/215
+#EXTINF:-1 tvg-id="" tvg-name="Rai Sport + FHD" tvg-logo="" group-title="ITALIA",Rai Sport + FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/60
+#EXTINF:-1 tvg-id="" tvg-name="Rai Sport + HD" tvg-logo="" group-title="ITALIA",Rai Sport + HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/61
+#EXTINF:-1 tvg-id="" tvg-name="Sport Italia HD" tvg-logo="" group-title="ITALIA",Sport Italia HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/90
+#EXTINF:-1 tvg-id="" tvg-name="Super Tennis HD" tvg-logo="" group-title="ITALIA",Super Tennis HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/317
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Tennis FHD" tvg-logo="" group-title="ITALIA",Sky Sport Tennis FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/362
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Tennis HD" tvg-logo="" group-title="ITALIA",Sky Sport Tennis HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/363
+#EXTINF:-1 tvg-id="" tvg-name="EQU TV FHD" tvg-logo="" group-title="ITALIA",EQU TV FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/400
+#EXTINF:-1 tvg-id="" tvg-name="HORSE TV FHD" tvg-logo="" group-title="ITALIA",HORSE TV FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/401
+#EXTINF:-1 tvg-id="" tvg-name="---------- SKY SPORT + CALCIO ----------" tvg-logo="" group-title="ITALIA",---------- SKY SPORT + CALCIO ----------
+http://51.15.7.149:8080/comune/yGmJCyRFET/218
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Calcio  FHD" tvg-logo="" group-title="ITALIA",Sky Sport Calcio  FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/222
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Calcio HD" tvg-logo="" group-title="ITALIA",Sky Sport Calcio HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/223
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Calcio" tvg-logo="" group-title="ITALIA",Sky Sport Calcio
+http://51.15.7.149:8080/comune/yGmJCyRFET/224
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  251 FHD" tvg-logo="" group-title="ITALIA",Sky Sport  251 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/225
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  251 HD" tvg-logo="" group-title="ITALIA",Sky Sport  251 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/229
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  252 FHD" tvg-logo="" group-title="ITALIA",Sky Sport  252 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/228
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  252 HD" tvg-logo="" group-title="ITALIA",Sky Sport  252 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/230
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  253 FHD" tvg-logo="" group-title="ITALIA",Sky Sport  253 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/231
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  253 HD" tvg-logo="" group-title="ITALIA",Sky Sport  253 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/232
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  254 FHD" tvg-logo="" group-title="ITALIA",Sky Sport  254 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/234
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  254 HD" tvg-logo="" group-title="ITALIA",Sky Sport  254 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/235
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  255 FHD" tvg-logo="" group-title="ITALIA",Sky Sport  255 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/237
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  255 HD" tvg-logo="" group-title="ITALIA",Sky Sport  255 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/238
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  256 FHD" tvg-logo="" group-title="ITALIA",Sky Sport  256 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/240
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  256 HD" tvg-logo="" group-title="ITALIA",Sky Sport  256 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/241
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport  257 FHD" tvg-logo="" group-title="ITALIA",Sky Sport  257 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/243
+#EXTINF:-1 tvg-id="" tvg-name="---------- Dazn Sport ----------" tvg-logo="" group-title="ITALIA",---------- Dazn Sport ----------
+http://51.15.7.149:8080/comune/yGmJCyRFET/246
+#EXTINF:-1 tvg-id="" tvg-name="Zona DAZN HD" tvg-logo="" group-title="ITALIA",Zona DAZN HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/379
+#EXTINF:-1 tvg-id="" tvg-name="Zona DAZN HD" tvg-logo="" group-title="ITALIA",Zona DAZN HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/515
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Evento 1" tvg-logo="" group-title="ITALIA",Dazn Evento 1
+http://51.15.7.149:8080/comune/yGmJCyRFET/252
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Evento 2" tvg-logo="" group-title="ITALIA",Dazn Evento 2
+http://51.15.7.149:8080/comune/yGmJCyRFET/253
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Evento 3" tvg-logo="" group-title="ITALIA",Dazn Evento 3
+http://51.15.7.149:8080/comune/yGmJCyRFET/258
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Evento 4" tvg-logo="" group-title="ITALIA",Dazn Evento 4
+http://51.15.7.149:8080/comune/yGmJCyRFET/259
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Evento 5" tvg-logo="" group-title="ITALIA",Dazn Evento 5
+http://51.15.7.149:8080/comune/yGmJCyRFET/260
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Evento 6" tvg-logo="" group-title="ITALIA",Dazn Evento 6
+http://51.15.7.149:8080/comune/yGmJCyRFET/261
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Evento 7" tvg-logo="" group-title="ITALIA",Dazn Evento 7
+http://51.15.7.149:8080/comune/yGmJCyRFET/262
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Evento 8" tvg-logo="" group-title="ITALIA",Dazn Evento 8
+http://51.15.7.149:8080/comune/yGmJCyRFET/263
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Evento 9" tvg-logo="" group-title="ITALIA",Dazn Evento 9
+http://51.15.7.149:8080/comune/yGmJCyRFET/365
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Evento 10" tvg-logo="" group-title="ITALIA",Dazn Evento 10
+http://51.15.7.149:8080/comune/yGmJCyRFET/366
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Evento 11" tvg-logo="" group-title="ITALIA",Dazn Evento 11
+http://51.15.7.149:8080/comune/yGmJCyRFET/367
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Evento 12" tvg-logo="" group-title="ITALIA",Dazn Evento 12
+http://51.15.7.149:8080/comune/yGmJCyRFET/368
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Evento 13" tvg-logo="" group-title="ITALIA",Dazn Evento 13
+http://51.15.7.149:8080/comune/yGmJCyRFET/369
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Evento 14" tvg-logo="" group-title="ITALIA",Dazn Evento 14
+http://51.15.7.149:8080/comune/yGmJCyRFET/370
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Evento 15" tvg-logo="" group-title="ITALIA",Dazn Evento 15
+http://51.15.7.149:8080/comune/yGmJCyRFET/389
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Evento 16" tvg-logo="" group-title="ITALIA",Dazn Evento 16
+http://51.15.7.149:8080/comune/yGmJCyRFET/390
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Evento 17" tvg-logo="" group-title="ITALIA",Dazn Evento 17
+http://51.15.7.149:8080/comune/yGmJCyRFET/391
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Evento 18" tvg-logo="" group-title="ITALIA",Dazn Evento 18
+http://51.15.7.149:8080/comune/yGmJCyRFET/392
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Evento 19" tvg-logo="" group-title="ITALIA",Dazn Evento 19
+http://51.15.7.149:8080/comune/yGmJCyRFET/393
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Evento 20" tvg-logo="" group-title="ITALIA",Dazn Evento 20
+http://51.15.7.149:8080/comune/yGmJCyRFET/394
+#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio BAR 1 FHD" tvg-logo="" group-title="ITALIA",Sky Calcio BAR 1 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/344
+#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio BAR 1 HD" tvg-logo="" group-title="ITALIA",Sky Calcio BAR 1 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/345
+#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio BAR 2 FHD" tvg-logo="" group-title="ITALIA",Sky Calcio BAR 2 FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/346
+#EXTINF:-1 tvg-id="" tvg-name="Sky Calcio BAR 2 HD" tvg-logo="" group-title="ITALIA",Sky Calcio BAR 2 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/470
+#EXTINF:-1 tvg-id="" tvg-name="----------  AMAZON & INFINITY TV ----------" tvg-logo="" group-title="ITALIA",----------  AMAZON & INFINITY TV ----------
+http://51.15.7.149:8080/comune/yGmJCyRFET/310
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video FHD" tvg-logo="" group-title="ITALIA",Prime Video FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/315
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video HD" tvg-logo="" group-title="ITALIA",Prime Video HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/316
+#EXTINF:-1 tvg-id="" tvg-name="Mediaset Infinity 1 FHD " tvg-logo="" group-title="ITALIA",Mediaset Infinity 1 FHD 
+http://51.15.7.149:8080/comune/yGmJCyRFET/338
+#EXTINF:-1 tvg-id="" tvg-name="Mediaset Infinity 2 FHD " tvg-logo="" group-title="ITALIA",Mediaset Infinity 2 FHD 
+http://51.15.7.149:8080/comune/yGmJCyRFET/339
+#EXTINF:-1 tvg-id="" tvg-name="Mediaset Infinity 3 FHD " tvg-logo="" group-title="ITALIA",Mediaset Infinity 3 FHD 
+http://51.15.7.149:8080/comune/yGmJCyRFET/340
+#EXTINF:-1 tvg-id="" tvg-name="Mediaset Infinity 4FHD" tvg-logo="" group-title="ITALIA",Mediaset Infinity 4FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/471
+#EXTINF:-1 tvg-id="" tvg-name="---------- SWISS ----------" tvg-logo="" group-title="ITALIA",---------- SWISS ----------
+http://51.15.7.149:8080/comune/yGmJCyRFET/333
+#EXTINF:-1 tvg-id="" tvg-name="Super Tennis FHD" tvg-logo="" group-title="ITALIA",Super Tennis FHD
+http://51.15.7.149:8080/comune/yGmJCyRFET/472
+#EXTINF:-1 tvg-id="" tvg-name="Blue Zoom HD" tvg-logo="" group-title="ITALIA",Blue Zoom HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/330
+#EXTINF:-1 tvg-id="" tvg-name="Blue Sport 1 HD" tvg-logo="" group-title="ITALIA",Blue Sport 1 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/331
+#EXTINF:-1 tvg-id="" tvg-name="Blue Sport 2 HD" tvg-logo="" group-title="ITALIA",Blue Sport 2 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/332
+#EXTINF:-1 tvg-id="" tvg-name="MySports One HD" tvg-logo="" group-title="ITALIA",MySports One HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/318
+#EXTINF:-1 tvg-id="" tvg-name="MySports/Sky2 HD" tvg-logo="" group-title="ITALIA",MySports/Sky2 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/319
+#EXTINF:-1 tvg-id="" tvg-name="MySports/Sky3 HD" tvg-logo="" group-title="ITALIA",MySports/Sky3 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/320
+#EXTINF:-1 tvg-id="" tvg-name="MySports/Sky4 HD" tvg-logo="" group-title="ITALIA",MySports/Sky4 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/321
+#EXTINF:-1 tvg-id="" tvg-name="MySports/Sky5 HD" tvg-logo="" group-title="ITALIA",MySports/Sky5 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/322
+#EXTINF:-1 tvg-id="" tvg-name="MySports/Sky6 HD" tvg-logo="" group-title="ITALIA",MySports/Sky6 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/323
+#EXTINF:-1 tvg-id="" tvg-name="MySports/Sky7 HD" tvg-logo="" group-title="ITALIA",MySports/Sky7 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/324
+#EXTINF:-1 tvg-id="" tvg-name="MySports/Sky8 HD" tvg-logo="" group-title="ITALIA",MySports/Sky8 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/325
+#EXTINF:-1 tvg-id="" tvg-name="MySports/Sky9 HD" tvg-logo="" group-title="ITALIA",MySports/Sky9 HD
+http://51.15.7.149:8080/comune/yGmJCyRFET/326
